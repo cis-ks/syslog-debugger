@@ -15,5 +15,11 @@
     },
     "optionalDependencies": {
         "@laravel/multiplex": "^0.4.1"
+    },
+    "dependencies": {
+        "flowbite": "^4.0.2",
+        "laravel-echo": "^2.6.1",
+        "pusher-js": "^8.6.0",
+        "sweetalert2": "^11.26.25"
     }
 }

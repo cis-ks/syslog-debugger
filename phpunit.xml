@@ -32,5 +32,6 @@
         <env name="PULSE_ENABLED" value="false"/>
         <env name="TELESCOPE_ENABLED" value="false"/>
         <env name="NIGHTWATCH_ENABLED" value="false"/>
+        <env name="SAML_IDP_X509_CERT" value="MIICdzCCAV8CAQAwDQYJKoZIhvcNAQEFBQAwMzExMC8GA1UEAwooc2FtbC1pZHAuZXhhbXBsZS5jb20gU0FNTCAyLjAgQ0EgU2VydmljZXMwHhcNMjMwMTAxMDAwMDAwWhcNMzMwMTAxMDAwMDAwWjAzMTEwLwYDVQQDDChzYW1sLWlkcC5leGFtcGxlLmNvbSBTQU1MIDIuMCBDQSBTZXJ2aWNlczANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA"/>
     </php>
 </phpunit>
